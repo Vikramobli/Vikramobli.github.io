@@ -10,7 +10,7 @@ html[data-theme="light"] {
   --col-bd-icon:transparent;
   --bg-icon: #fff;
    --bg1-color: #fff;
-  --col-icon-dribbble: #ea4c89;
+  
   --col-icon-linkedin: #0e76a8;
   --col-icon-kaggle: #41aff3;  
   --col-icon-instagram: rgb(201, 94, 174);
@@ -29,7 +29,7 @@ html[data-theme="dark"] {
   --col-box-shadow: 5px 5px 10px rgba(22, 21, 21, 0.7) , -5px -5px 10px rgba(255,255,255,0.1);
   --col-box-shadow-hover:inset rgba(255, 255, 255, 1) 2px 2px 4px, 
  inset rgba(255, 255, 255, 0.5) -2px -2px 4px;
-  --col-icon-dribbble: #ea4c89;
+
   --col-icon-linkedin: #0e76a8;
   --col-icon-kaggle: #41aff3;
   --col-icon-instagram: rgb(201, 94, 174);
@@ -41,7 +41,7 @@ html[data-theme="dark"] {
 }
 /* Particle effect*/
 body{
-  font-family: "Poppins";
+  font-family: "Tangerine";
 }
 #home,
 #particles-js {
